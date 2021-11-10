@@ -1,3 +1,3 @@
 # CCF_Lab2_Fall2021
 
-Follow the next steps to reproduce our work.
+To reproduce our work, please follow the steps outlined in the PDF file that was uploaded to Moodle.
